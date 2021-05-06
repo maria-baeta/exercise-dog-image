@@ -1,0 +1,12 @@
+img {
+    max-width:  300px;
+    border-radius: 5px;
+}
+
+button {
+    margin: 5px;
+}
+
+input {
+    max-width: 200px;
+}
